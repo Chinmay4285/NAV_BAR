@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/bus"
+        android:icon="@drawable/ic_directions_bus_black_24dp"
+        android:title="@string/bus" />
+    <item
+        android:id="@+id/amenity"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="@string/amenity" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="@string/profile" />
+    <item
+        android:id="@+id/credent"
+        android:icon="@drawable/ic_format_color_text_black_24dp"
+        android:title="@string/credent" />
+    </group>
+
+    <item android:title="@string/app_communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="@string/app_share" />
+            <item
+                android:id="@+id/send"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="@string/app_send" />
+        </menu>
+    </item>
+
+</menu>

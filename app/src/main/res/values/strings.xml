@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="amenity">Amenity rating</string>
+
+    <string name="credent">Details</string>
+
+    <string name="app_gallery">Gallery</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="app_tools">Settings</string>
+
+    <string name="app_communicate">Communicate</string>
+
+    <string name="app_share">Share</string>
+
+    <string name="app_send">Send</string>
+
+    <string name="appmenuname"> Campcon </string>
+
+    <string name="navdemo">Navigation Drawer Full Demo</string>
+
+    <string name="bus"> Bus tracking</string>
+
+    <string name="bustrack">This is Bus tracking  </string>
+
+    <string name="Profile">This is Profile Activity</string>
+    <string name="Detals">This is Credentials Activity</string>
+  <string name="Amenity">This is Amenity Activity</string>
+    <string name="action_settings">settings</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
